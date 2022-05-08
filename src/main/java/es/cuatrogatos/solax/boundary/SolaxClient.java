@@ -1,4 +1,4 @@
-package solax.boundary;
+package es.cuatrogatos.solax.boundary;
 
 import es.cuatrogatos.solax.entity.Result;
 import es.cuatrogatos.solax.entity.SolaxCloudResponse;

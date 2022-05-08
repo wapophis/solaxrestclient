@@ -1,4 +1,4 @@
-package solax.entity;
+package es.cuatrogatos.solax.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

@@ -1,4 +1,4 @@
-package solax.entity;
+package es.cuatrogatos.solax.entity;
 
 import java.util.UUID;
 
