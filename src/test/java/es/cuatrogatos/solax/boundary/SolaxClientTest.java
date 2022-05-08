@@ -21,7 +21,6 @@ public class SolaxClientTest {
     public void tearDown() throws Exception {
     }
 
-    @Test
     public void queryEndpoint() throws ExecutionException, InterruptedException {
         solaxClient.setToken(System.getProperty("token"));
         solaxClient.setSn(System.getProperty("sn"));
